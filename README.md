@@ -22,62 +22,51 @@ A comprehensive guide on Markdown syntax and tips for formatting plain text.
    - Ordered Lists
    - Task Lists
 
-4. [**Links and Images**](./M4/Links-and-Images.md)
+4. [**Links and Images**](./04-Links-and-Images.md)
 
    - Inline Links
    - Hyperlinks with Titles
    - Images and Alt Text
 
-5. [**Code Formatting**](./M5/Code-Formatting.md)
+5. [**Code Formatting**](./05-Code-Formatting.md)
 
    - Inline Code
    - Code Blocks
    - Syntax Highlighting
 
-6. [**Special Elements**](./M6/Special-Elements.md)
+6. [**Special Elements**](./06-Special-Elements.md)
 
    - Horizontal Rule
    - Blockquotes
    - Line Breaks
 
-7. [**Advanced Formatting**](./M7/Advanced-Formatting.md)
+7. [**Advanced Formatting**](./07-Advanced-Formatting.md)
 
    - Footnotes
    - Superscript and Subscript
-   - Underline Text
 
-8. [**Extended Features**](./M8/Extended-Features.md)
+8. [**Extended Features**](./08-Extended-Features.md)
 
    - Inline Links without URLs
    - Abbreviations
    - Automatic Links
 
-9. [**Additional Tips and Tricks**](./M9/Additional-Tips-and-Tricks.md)
+9. [**Additional Tips and Tricks**](./09-Additional-Tips-and-Tricks.md)
 
    - Escaping Characters
    - Emoji Usage
    - Nested Lists
 
-10. [**GitHub-Specific Tips**](./M10/GitHub-Specific-Tips.md)
+10. [**GitHub-Specific Tips**](./10-GitHub-Specific-Tips.md)
 
     - Readme Formatting for GitHub
     - GitHub Flavored Markdown (GFM)
 
-11. [**Creating and Using GitHub Repositories**](./M11/Creating-and-Using-GitHub-Repositories.md)
+11. [**Creating and Using GitHub Repositories**](./11-Creating-and-Using-GitHub-Repositories.md)
 
     - Initializing a Repository
     - Adding and Updating Files
     - Collaboration and Pull Requests
-
-12. [**Contribution**](./M12/Contribution.md)
-
-    - How to Contribute
-    - Guidelines for Contributors
-    - Code of Conduct
-
-13. [**Conclusion**](./M13/Conclusion.md)
-    - Recap of Key Points
-    - Encouragement for Further Exploration
 
 ---
 
@@ -101,4 +90,3 @@ We welcome contributions from the community! If you'd like to contribute to the 
 Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for all contributors.
 
 Let's make the Markdown Guide even better together! 🌟
-

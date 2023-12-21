@@ -24,3 +24,14 @@ Example:
 
 ## 3. Task Lists
 
+Create a task list by using square brackets with a space for completed tasks (`[x]`) and an empty space for incomplete tasks (`[ ]`).
+
+Example:
+
+- [x] Task 1: `- [x] Task 1`
+- [ ] Task 2: `- [ ] Task 2`
+- [ ] Task 3: `- [ ] Task 3`
+
+Remember to escape backticks within code blocks by replacing them with a backslash (`\`) to display properly.
+
+These list types provide flexibility for structuring content in a readable and organized manner. Explore and use them according to your documentation needs!
