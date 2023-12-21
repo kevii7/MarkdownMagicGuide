@@ -28,7 +28,15 @@ Example:
 - Heading 1: `# Heading 1`
 - Heading 2: `## Heading 2`
 
-These basic formatting options serve as the foundation for creating well-structured and visually appealing content in Markdown. Feel free to experiment and combine these elements!
-
 ## 4. Underline
 
+To underline a text, use one of these HTML tags.
+
+Example:
+
+- <ins>Your text 1</ins>: `<ins>Your text 1</ins>`
+- <u>Your text 2</u>: `<u>Your text 2</u>`
+
+---
+
+These basic formatting options serve as the foundation for creating well-structured and visually appealing content in Markdown. Feel free to experiment and combine these elements!
