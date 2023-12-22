@@ -34,4 +34,16 @@ Example:
 
 Remember to escape backticks within code blocks by replacing them with a backslash (`\`) to display properly.
 
+## 4. Definition Lists
+
+Create definition lists using colons (`:`) 
+
+Term 1
+: Definition 1
+
+```txt
+Term 2
+: Definition 2
+```
+
 These list types provide flexibility for structuring content in a readable and organized manner. Explore and use them according to your documentation needs!
